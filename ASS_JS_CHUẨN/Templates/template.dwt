@@ -1,0 +1,220 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <!-- TemplateBeginEditable name="doctitle" -->
+        <title>template</title>
+        <!-- TemplateEndEditable -->
+        <link rel="stylesheet" type="text/css" href="../CSS/home.css"/>
+        <link rel="stylesheet" type="text/css" href="../CSS/style.css"/>
+        <script type="text/javascript" src="../JS_FORM/form.js"></script>
+        <!-- TemplateBeginEditable name="head" -->
+        <!-- TemplateEndEditable -->
+    </head>
+    <body>
+	<div id="header">
+        	<div id="logo">
+                     <a href="../HTML/index.html"><img src="../IMAGE/lg.png" width="180" height="70"  style="float:left; position:relative; left:100px;"/></a>
+                     <ul class="lh">
+                       <li style="border-right:none;"><a href="../HTML/lienhe.html">Liên hệ</a></li>
+                        <li><a href="">Hỗ trợ</a></li>
+                        <li><a href="">Tuyển dụng</a></li>
+                    </ul>
+            </div>
+            <div id="menu">
+            	<ul class="menu1"  style="position:relative; left:100px;">
+                	<li><a href="../HTML/index.html">TRANG CHỦ</a></li>
+                    <li><a href="">SẢN PHẨM</a>
+                    	<table background="../IMAGE/l.png">
+                        	<tr>
+                            	<td><a href=""><img src="../IMAGE/city.png" width="208" height="90" /></a></td>
+                            	<td><a href=""><img src="../IMAGE/civic.png" width="198" height="105" /></a></td>
+                                <td><a href=""><img src="../IMAGE/civic_modulo.png" width="180" height="110" /></a></td>
+                                <td><a href=""><img src="../IMAGE/CR_V.png" width="201" height="92" /></a></td>
+                                <td><a href="../HTML/odyssey.html" target="_blank"><img src="../IMAGE/oddyssey.png" width="207" height="87" /></a></td>
+                            </tr>
+                            <tr>
+                            	<td><a href=""><h2 style="font-style:italic; position:relative; top:-15px;">CITY</br><span style="font-size:14px; font-style:normal; position:relative; top:-20px;">(Trả lối thành công)</span></h2></a></td>
+                               	<td><a href=""><h2 style="font-style:italic; position:relative; top:-15px;">CIVIC</br><span style="font-size:14px; font-style:normal; position:relative; top:-20px;">(Nâng tầm phong cách)</span></h2></a></td>
+                                <td><a href=""><h2 style="font-style:italic; position:relative; top:-10px;">CIVIC-modulo</br><span style="font-size:14px; font-style:normal; position:relative; top:-20px;">(Bứt phá mạnh mẽ)</span></h2></a></td>
+                                <td><a href=""><h2 style="font-style:italic; position:relative; top:-15px;">CR-V</br><span style="font-size:14px; font-style:normal; position:relative; top:-20px;">(Rạng danh vị thế)</span></h2></a></td>
+                                 <td><a href="../HTML/odyssey.html" target="_blank"><h2 style="font-style:italic; position:relative; top:-15px;">ODYSSEY</br><span style="font-size:14px; font-style:normal; position:relative; top:-20px;">(Trọn vẹn từng khoảng khắc)</span></h2></a></td>
+                            </tr>
+                             <tr>
+                            	<td><p style="position:relative; top:-50px; left:25px;">Từ 552.000.000 vnđ</p></td>
+                               	<td><p style="position:relative; top:-50px; left:25px;">Từ 780.000.000 vnđ</p></td>
+                                <td><p style="position:relative; top:-50px; left:25px;">Từ 790.000.000 vnđ</p></td>
+                                <td><p style="position:relative; top:-50px; left:25px;">Từ 1.008.000.000 vnđ</p></td>
+                                <td><p style="position:relative; top:-50px; left:25px;">Từ 1.090.000.000 vnđ</p></td>
+                            </tr>
+                            <tr>
+                            	<td><img src="../IMAGE/tto.png" width="153" height="23" style="position:relative; top:-50px; left:25px;"/></td>
+                                <td><img src="../IMAGE/tto.png" width="153" height="23" style="position:relative; top:-50px; left:25px;"/></td>
+                                <td><img src="../IMAGE/tto.png" width="153" height="23" style="position:relative; top:-50px; left:25px;"/></td>
+                                <td><img src="../IMAGE/tto.png" width="153" height="23" style="position:relative; top:-50px; left:25px;"/></td>
+                                <td><img src="../IMAGE/tto.png" width="153" height="23" style="position:relative; top:-50px; left:25px;"/></td>
+                            </tr>
+                       </table>
+                  </li>
+                     <li><a href="">GIÁ XE</a></li>
+                    <li><a href="">TIN TỨC & SỰ KIỆN</a>
+                    	<ul>
+                            <li><a href="">Tin tức & sự kiện</a></li>
+                            <li><a href="">Báo chí viết về Honda</a></li>
+                            <li><a href="">Tuyển dụng</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="">ĐẠI LÝ</a>
+                    	<ul>
+                            <li><a href="">Hệ thống đại lý</a></li>
+                            <li><a href="">Mở đại lý</a></li>
+                            <li><a href="">Hoạt động đại lý</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="">DỊCH VỤ SAU BÁN HÀNG</a>
+                    	<ul>
+                        	<li><a href="">Bảo hành</a></li>
+                            <li><a href="">Dịch vụ bảo dưỡng</a></li>
+                            <li><a href="">Phụ tùng</a></li>
+                            <li><a href="">Hoạt động đại lý xanh</a></li>
+                        </ul>
+                    </li>
+                     
+                    <li><a href="">GIỚI THIỆU</a>
+                    	<ul>
+                        	<li><a href="">Giới thiệu chung</a></li>
+                            <li><a href="">Triết lý Honda</a></li>
+                            <li><a href="">Công nghệ</a></li>
+                            <li><a href="">Các Giải thưởng</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="">TƯ VẤN</a>
+                    	<ul>
+                            <li><a href="">Tư vấn khách hàng</a></li>
+                            <li><a href="">FAQ</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+    </div>
+	<!-- TemplateBeginEditable name="bn" -->
+	<div id="banner"></div>
+	<!-- TemplateEndEditable --><!-- TemplateBeginEditable name="ct" -->
+	<div id="content"></div>
+	<!-- TemplateEndEditable -->
+	<div id="form">
+	  <div id="form1">
+      	<h1 style="position:relative; top:10px; left:100px;">Hotline hỗ trợ</h1>
+        <p style="position:relative; top:5px; left:100px;">Gọi để được tư vấn về sản phẩm, dịch vụ:</p>
+        <table style="position:relative; top:3px; left:90px; ">
+        	<tr>
+            	<td><h2 style="color:#F06">1800 555 548</h2></td>
+              <td><p style="font-size:15px;">(Miễn phí cho thuê bao VNPT)</p></td>
+            </tr>
+            <tr>
+            	<td><h2 style="color:#F06">1800 8001</h2></td>
+              <td><p style="font-size:15px;">(Miễn phí cho thuê bao VIETTEL)</p></td>
+            </tr>
+        </table>
+        
+      </div>
+      <div id="form2">
+      	<h1 style="position:relative; top:10px; left:100px;">Đăng ký nhận tin</h1>
+        <p style="position:relative; top:5px; left:100px;">Những thông tin về sản phẩm mới, sự kiện và khuyến mại</p>
+        <form name="check">
+       	  <table style="position:relative; top:3px; left:85px;" cellspacing="15">
+            	<tr>
+                	<td><p style="font-size:16px; position:relative; left:-50px;">Email</p></td>
+                	<td><input type="text" id="email" name="email" size="38" style="width:350px; height:35px; font-size:16px; position:relative; left:-368px;"></td>
+                </tr>
+                <tr>
+                
+                	<td>
+                    	<select id="choice" name="choice" style="width:350px; height:35px; font-size:16px">
+                        	<option>Chọn mục bạn muốn nhận tin</option>
+                            <option id="choice1">Tất cả</option>
+                            <option id="choice2">Thông tin công ty</option>
+                            <option id="choice3">Tin khuyến mãi</option>
+                            <option id="choice4">Tin sản phẩm</option>
+                       </select>
+                    </td>
+                </tr>
+                <tr>
+                	<td><input type="button" value="Gửi" name="sent" onclick="CheckForm();" style="width:45px; height:35px; font-size:16px"/></td>
+                </tr>
+            </table>
+        </form>
+      </div>
+    </div>
+<div id="footer">
+       	<ul class="menu2">
+            	<li><a href="#">SẢN PHẨM</a>
+                	<ul>
+                        <li><a href="">Honda City</a></li>
+                        <li><a href="">Honda Civic</a></li>
+                        <li><a href="">Honda Civic Modulo</a></li>
+                        <li><a href="">Honda CRV</a></li>
+                        <li><a href="../HTML/odyssey.html">Honda Odyssey</a></li>
+                        <li><a href="">Honda Accord</a></li>
+                    </ul>
+                </li>
+                <li><a href="#">DỊCH VỤ SAU BÁN HÀNG</a>
+                	<ul>
+                        <li><a href="">Gia hạn bảo hành</a></li>
+                        <li><a href="">Dịch vụ sau bảo dưỡng</a></li>
+                        <li><a href="">Hoạt động đại lý xanh</a></li>
+                    </ul>
+                </li>
+                <li><a href="#">TIN TỨC & SỰ KIỆN</a>
+                	<ul>
+                        <li><a href="">Tin tức & sự kiện. </a></li>
+                        <li><a href="">Báo chí viết về Honda.</a></li>
+                        <li><a href="">Tuyển dụng.</a></li>
+                        
+                    </ul>
+                </li>
+                <li><a href="#">ĐẠI LÝ</a>
+                	<ul>
+                        <li><a href="">Hệ thống đại lý</a></li>
+                        <li><a href="">Mở đại lý</a></li>
+                        <li><a href="">Hoạt động đại lý</a></li>
+                    </ul>
+                </li>
+                
+                <li><a href="#">GIỚI THIỆU</a>
+                	<ul>
+                        <li><a href="">Giới thiệu chung</a></li>
+                        <li><a href="">Triết lý Honda</a></li>
+                        <li><a href="">Công nghệ</a></li>
+                        <li><a href="">Các Giải thưởng</a></li>
+                    </ul>
+                </li>
+                <li><a href="#">TƯ VẤN</a>
+                	<ul>
+                        <li><a href="">Tư vấn khách hàng</a></li>
+                        <li><a href="">FAQ</a></li>
+                    </ul>
+                </li>
+            </ul>
+           <hr width="86%" align="left" style="position:relative; top:250px; left:130px;" />
+          <ul style="position:relative; top:250px; left:1070px; list-style:none;"">
+            	<li><a herf=""><img src="../IMAGE/logo-honda-new-1.png" width="149" height="50" /></li>
+            </ul>
+          <ul style="position:relative; top:180px; left:80px; color:#FFF; list-style:none;"">
+            	<li><a herf=""><img src="../IMAGE/logo_honda.png" width="126" height="40" /></a></li>
+            </ul>
+            <table style="position: relative; top: 110px; left: 500px;">
+            	<tr>
+                	<td><p style="color:#FFF; font-size:14px;">© Copyright Honda Vietnam 2015. All Rights Reserved.</p></td>
+                </tr>
+                <tr>
+                	<td><p style="color:#FFF; font-size:14px;">Trụ sở chính và Nhà máy: Phường Phúc Thắng, thị xã Phúc Yên, tỉnh Vĩnh Phúc, Việt Nam</p></td>
+                </tr>
+                <tr>
+                	<td><p style="color:#FFF; font-size:14px;">Tel: (84) 211 3868888    Fax: (84) 211 3868910.</p></td>
+                </tr>
+            </table>
+    </div>
+    </body>
+</html>
+             
